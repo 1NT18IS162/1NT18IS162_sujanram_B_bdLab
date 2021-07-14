@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Ram",
+        "yearsOfService": 4,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": true,
+        "salary": 35000,
+        "tax": 5000
+    },
+    {
+        "name": "Mahesh",
+        "yearsOfService": 5,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": true,
+        "salary": 30000,
+        "tax": 15000
+    },
+    {
+        "name": "Kumar",
+        "yearsOfService": 10,
+        "numberOfIncrements": 3,
+        "eligibleForPayRaise": true,
+        "salary": 55000,
+        "tax": 20000
+    },
+    {
+        "name": "Bhuvan",
+        "yearsOfService": 4,
+        "numberOfIncrements": 2,
+        "eligibleForPayRaise": false,
+        "salary": 25000,
+        "tax": 5000
+    },
+    {
+        "name": "Shyam",
+        "yearsOfService": 6,
+        "numberOfIncrements": 4,
+        "eligibleForPayRaise": false,
+        "salary": 55000,
+        "tax": 20000
+    },
+    {
+        "name": "Ganesh",
+        "yearsOfService": 7,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": false,
+        "salary": 25000,
+        "tax": 5000
+    },
+    {
+        "name": "Punith",
+        "yearsOfService": 10,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": true,
+        "salary": 30000,
+        "tax": 8000
+    },
+    {
+        "name": "Nikhil",
+        "yearsOfService": 2,
+        "numberOfIncrements": 2,
+        "eligibleForPayRaise": false,
+        "salary": 50000,
+        "tax": 10000
+    },
+    {
+        "name": "Sunil",
+        "yearsOfService": 4,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": true,
+        "salary": 65000,
+        "tax": 12000
+    },
+    {
+        "name": "Prajwal",
+        "yearsOfService": 7,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": false,
+        "salary": 40000,
+        "tax": 15000
+    },
+    {
+        "name": "Sam",
+        "yearsOfService": 3,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": true,
+        "salary": 55000,
+        "tax": 18000
+    },
+    {
+        "name": "Adi",
+        "yearsOfService": 1,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": false,
+        "salary": 38000,
+        "tax": 9000
+    },
+    {
+        "name": "Suresh",
+        "yearsOfService": 2,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": true,
+        "salary": 40000,
+        "tax": 15000
+    },
+    {
+        "name": "Ramesh",
+        "yearsOfService": 1,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": false,
+        "salary": 17000,
+        "tax": 2000
+    },
+    {
+        "name": "Arvind",
+        "yearsOfService": 4,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": true,
+        "salary": 42000,
+        "tax": 13000
+    },
+    {
+        "name": "Rakesh",
+        "yearsOfService": 13,
+        "numberOfIncrements": 5,
+        "eligibleForPayRaise": true,
+        "salary": 75000,
+        "tax": 18000
+    },
+    {
+        "name": "Mrunal",
+        "yearsOfService": 4,
+        "numberOfIncrements": 1,
+        "eligibleForPayRaise": false,
+        "salary": 27000,
+        "tax": 14000
+    },
+    {
+        "name": "Rajesh",
+        "yearsOfService": 2,
+        "numberOfIncrements": 3,
+        "eligibleForPayRaise": false,
+        "salary": 38000,
+        "tax": 11000
+    },
+    {
+        "name": "Bharath",
+        "yearsOfService": 3,
+        "numberOfIncrements": 2,
+        "eligibleForPayRaise": false,
+        "salary": 52000,
+        "tax": 15000
+    },
+    {
+        "name": "Vishal",
+        "yearsOfService": 6,
+        "numberOfIncrements": 0,
+        "eligibleForPayRaise": true,
+        "salary": 63000,
+        "tax": 17000
+    }
+]
